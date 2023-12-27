@@ -5,7 +5,7 @@
 #
 Name     : pypi-translationstring
 Version  : 1.4
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/14/39/32325add93da9439775d7fe4b4887eb7986dbc1d5675b0431f4531f560e5/translationstring-1.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/14/39/32325add93da9439775d7fe4b4887eb7986dbc1d5675b0431f4531f560e5/translationstring-1.4.tar.gz
 Summary  : Utility library for i18n relied on by various Repoze and Pyramid packages
